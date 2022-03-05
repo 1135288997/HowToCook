@@ -61,6 +61,7 @@
 * [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 * [微波炉鸡蛋羹](./dishes/home-cooking/微波炉鸡蛋羹.md)
 * [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
+* [蚝油生菜](./dishes/home-cooking/蚝油生菜/蚝油生菜.md)
 
 ### 早餐
 
